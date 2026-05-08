@@ -1,3 +1,4 @@
+Change 08.05.2026
 # KU-SoPL-2026 — Survey of Programming Languages
 
 ## Assignment Instructions
